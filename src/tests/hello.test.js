@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 describe('JSX', () => {
   it('calls React.createElement', () => {
     const createElementSpy = jest.spyOn(React, 'createElement');
